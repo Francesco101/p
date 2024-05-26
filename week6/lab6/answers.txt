@@ -1,0 +1,26 @@
+Times:
+
+10 simulations: 0m0.033s
+100 simulations: 0m0.032s
+1000 simulations: 0m0.039s
+10000 simulations: 0m0.111s
+100000 simulations: 0m0.802s
+1000000 simulations: 0m13.811s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+
+-> With a small numner of simulation (<1000) the predictions seem quite random if compared
+    to the predictions with a higher number of simulations.
+   Specially, in a simulation I ran, (N = 10) Spain was estimated a 40% win change compared
+    to the actual 11% chance.
+   Also, in a simulation I ran, (n = 100) Brazil ended up as the favorated team, while
+    the more accurate results always showed Belgium as the favorated.
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?:
+
+-> At ten tousand simulations I would call the predictions good enough, they were in fact
+    really close to the more accurate ones and compared to the hundred tousand simulations
+    program the time of execution was eight times smaller.
