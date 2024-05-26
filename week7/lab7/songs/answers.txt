@@ -1,0 +1,20 @@
+QUESTION 1:
+-> If the 100 songs in the database where the top 100 songs of a person in the year,
+    I would assign to this person the aura color PURPLE.
+   I chose the PURPLE aura for the person because it chose songs that have a great danceability,
+    this is confirmed by the high average of 0.72 in danceability.
+   The person also chose relatively energetic songs, with an energy of 0.66 on average.
+   While the valence has a great variability suggesting that the person listens to music in different
+    mind states, when she's happy and sad regardless.
+   Therefore this is a person that wants to dance with the music at any moment of the day, with different moods,
+    like people with a PURPLE aura.
+
+QUESTION 2:
+-> Calculating the aura in this way does not take count of how much time was spent listening to a specific song,
+    pheraps the top 100 songs are not representative of what the person prefered the most.
+   If there is a big difference of listening time within the first and the last of the 100 songs, then the
+    getting the mean of all of the 100 songs was a blind strategy to determine the person's preferences.
+    Because pheraps the first 30 songs' listening time is much grater than the rest of the songs in the list altogether.
+
+   My strategy would be that of taking into account for how long each song was listened to. I would take the mean
+    of the three parameters adding weight to each song based on how long it was listened to.
