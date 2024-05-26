@@ -1,0 +1,9 @@
++----------------------+-------------------+------+--------+
+|        titolo        |      regista      | anno | rating |
++----------------------+-------------------+------+--------+
+| Cado dalle nubi      | Gennaro Nunziante | 2009 | 6.4    |
+| What a Beautiful Day | Gennaro Nunziante | 2011 | 6.3    |
+| Sole a catinelle     | Gennaro Nunziante | 2013 | 6.3    |
+| Quo vado?            | Gennaro Nunziante | 2016 | 6.6    |
+| Tolo Tolo            |                   | 2020 | 5.8    |
++----------------------+-------------------+------+--------+

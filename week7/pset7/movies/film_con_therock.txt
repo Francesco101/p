@@ -1,0 +1,57 @@
++-----------------------------------------------------------------------+-------------------------+------+--------+
+|                                titolo                                 |         regista         | anno | rating |
++-----------------------------------------------------------------------+-------------------------+------+--------+
+| The Scorpion King                                                     | Chuck Russell           | 2002 | 5.5    |
+| The Rundown                                                           | Peter Berg              | 2003 | 6.6    |
+| Walking Tall                                                          | Kevin Bray              | 2004 | 6.2    |
+| Be Cool                                                               | F. Gary Gray            | 2005 | 5.6    |
+| Doom                                                                  | Andrzej Bartkowiak      | 2005 | 5.2    |
+| Polynesian Power                                                      | Jeremy Spear            | 2005 | 7.9    |
+| Polynesian Power                                                      | Robert Pennington       | 2005 | 7.9    |
+| Southland Tales                                                       | Richard Kelly           | 2006 | 5.3    |
+| Gridiron Gang                                                         | Phil Joanou             | 2006 | 7.0    |
+| The Game Plan                                                         | Andy Fickman            | 2007 | 6.1    |
+| Get Smart                                                             | Peter Segal             | 2008 | 6.5    |
+| Planet 51                                                             | Javier Abad             | 2009 | 6.0    |
+| Planet 51                                                             | Jorge Blanco            | 2009 | 6.0    |
+| Planet 51                                                             | Marcos Martínez         | 2009 | 6.0    |
+| Race to Witch Mountain                                                | Andy Fickman            | 2009 | 5.7    |
+| Tooth Fairy                                                           | Michael Lembeck         | 2010 | 5.0    |
+| Faster                                                                | George Tillman Jr.      | 2010 | 6.4    |
+| Fast Five                                                             | Justin Lin              | 2011 | 7.3    |
+| WWE The Rock: The Most Electrifying Man In Sports Entertainment Vol 2 |                         | 2011 | 5.7    |
+| WWE The Rock: The Most Electrifying Man In Sports Entertainment Vol 1 |                         | 2011 | 6.7    |
+| Journey 2: The Mysterious Island                                      | Brad Peyton             | 2012 | 5.7    |
+| Snitch                                                                | Ric Roman Waugh         | 2013 | 6.4    |
+| G.I. Joe: Retaliation                                                 | Jon M. Chu              | 2013 | 5.7    |
+| Fast & Furious 6                                                      | Justin Lin              | 2013 | 7.0    |
+| Pain & Gain                                                           | Michael Bay             | 2013 | 6.4    |
+| Empire State                                                          | Dito Montiel            | 2013 | 5.2    |
+| Hercules                                                              | Brett Ratner            | 2014 | 6.0    |
+| San Andreas                                                           | Brad Peyton             | 2015 | 6.1    |
+| Furious 7                                                             | James Wan               | 2015 | 7.1    |
+| Central Intelligence                                                  | Rawson Marshall Thurber | 2016 | 6.3    |
+| Moana                                                                 | Chris Williams          | 2016 | 7.6    |
+| Moana                                                                 | Don Hall                | 2016 | 7.6    |
+| Moana                                                                 | John Musker             | 2016 | 7.6    |
+| Moana                                                                 | Ron Clements            | 2016 | 7.6    |
+| A Tribute to David Levy: Newhouse Mirror Awards                       | Stu Lisson              | 2016 |        |
+| Baywatch                                                              | Seth Gordon             | 2017 | 5.5    |
+| Jumanji: Welcome to the Jungle                                        | Jake Kasdan             | 2017 | 6.9    |
+| The Fate of the Furious                                               | F. Gary Gray            | 2017 | 6.6    |
+| Rampage                                                               | Brad Peyton             | 2018 | 6.1    |
+| Skyscraper                                                            | Rawson Marshall Thurber | 2018 | 5.8    |
+| Fighting with My Family                                               | Stephen Merchant        | 2019 | 7.1    |
+| Fast & Furious Presents: Hobbs & Shaw                                 | David Leitch            | 2019 | 6.5    |
+| Jumanji: The Next Level                                               | Jake Kasdan             | 2019 | 6.7    |
+| Stars of the Ring: Cena, Johnson, Bautista                            | Adam Witney             | 2020 |        |
+| Dwayne 'The Rock' Johnson: No Pain No Gain                            | Adam Witney             | 2020 | 5.1    |
+| Jungle Cruise                                                         | Jaume Collet-Serra      | 2021 | 6.6    |
+| Red Notice                                                            | Rawson Marshall Thurber | 2021 | 6.3    |
+| Black Adam                                                            | Jaume Collet-Serra      | 2022 |        |
+| DC League of Super-Pets                                               | Jared Stern             | 2022 | 7.3    |
+| DC League of Super-Pets                                               | Sam J. Levine           | 2022 | 7.3    |
+| The Life & Near Death of Kevin Hart                                   | Roxane Schlumberger     | 2022 |        |
+| To the Journey: Looking Back at Star Trek: Voyager                    | David Zappone           | 2023 |        |
+| Red One                                                               | Jake Kasdan             | 2023 |        |
++-----------------------------------------------------------------------+-------------------------+------+--------+

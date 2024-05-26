@@ -1,0 +1,39 @@
++-------------------------------------------------------------------------------------------+---------------------+------+--------+
+|                                          titolo                                           |       regista       | anno | rating |
++-------------------------------------------------------------------------------------------+---------------------+------+--------+
+| Berlinguer: I Love You                                                                    | Giuseppe Bertolucci | 1977 | 6.7    |
+| Seeking Asylum                                                                            | Marco Ferreri       | 1979 | 6.1    |
+| The Days Are Numbered                                                                     |                     | 1979 | 6.2    |
+| Il pap'occhio                                                                             |                     | 1980 | 6.7    |
+| Il minestrone                                                                             | Sergio Citti        | 1981 | 7.3    |
+| F.F.S.S., cioè: '...che mi hai portato a fare sopra a Posillipo se non mi vuoi più bene?' |                     | 1983 | 6.0    |
+| You Disturb Me                                                                            |                     | 1983 | 6.5    |
+| Roberto Benigni: Tuttobenigni                                                             | Giuseppe Bertolucci | 1983 | 7.6    |
+| Nothing Left to Do but Cry                                                                |                     | 1984 | 7.6    |
+| Bellissimo: Immagini del cinema italiano                                                  | Gianfranco Mingozzi | 1985 | 6.5    |
+| Down by Law                                                                               | Jim Jarmusch        | 1986 | 7.7    |
+| The Little Devil                                                                          |                     | 1988 | 6.9    |
+| The Voice of the Moon                                                                     | Federico Fellini    | 1990 | 6.3    |
+| Johnny Stecchino                                                                          |                     | 1991 | 7.2    |
+| Son of the Pink Panther                                                                   | Blake Edwards       | 1993 | 3.9    |
+| The Monster                                                                               |                     | 1994 | 7.4    |
+| Life Is Beautiful                                                                         |                     | 1997 | 8.6    |
+| Le Nouveau Désert (Carnet Filmé: 29 octobre 1996 - 31 décembre 1998)                      | Gérard Courant      | 1997 |        |
+| Asterix and Obelix vs. Caesar                                                             | Claude Zidi         | 1999 | 5.9    |
+| Ferreri, I Love You                                                                       | Fiorella Infascelli | 2000 |        |
+| Pinocchio                                                                                 |                     | 2002 | 4.3    |
+| Fellini: I'm a Born Liar                                                                  | Damian Pettigrew    | 2002 | 7.0    |
+| Coffee and Cigarettes                                                                     | Jim Jarmusch        | 2003 | 7.0    |
+| Cesare Zavattini                                                                          | Carlo Lizzani       | 2003 | 6.0    |
+| The Tiger and the Snow                                                                    |                     | 2005 | 7.0    |
+| Roberto Introduces Benigni                                                                | Massimo Ferrari     | 2005 |        |
+| La commedia di Amos Poe                                                                   | Amos Poe            | 2010 | 7.7    |
+| Cinque mondi                                                                              | Giancarlo Soldi     | 2016 | 6.8    |
+| Evviva Giuseppe                                                                           | Stefano Consiglio   | 2017 | 7.0    |
+| Marco Ferreri: Dangerous But Necessary                                                    | Selma Dell'Olio     | 2017 | 7.6    |
+| Pinocchio                                                                                 | Matteo Garrone      | 2019 | 6.2    |
+| Cecchi Gori                                                                               | Marco Spagnoli      | 2019 | 7.1    |
+| Cecchi Gori                                                                               | Simone Isola        | 2019 | 7.1    |
+| Paolo Conte, via con me                                                                   | Giorgio Verdelli    | 2020 | 7.2    |
+| Alida                                                                                     | Mimmo Verdesca      | 2021 | 7.9    |
++-------------------------------------------------------------------------------------------+---------------------+------+--------+

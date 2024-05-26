@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS 'top rated movies' FROM ratings WHERE rating = 10;
