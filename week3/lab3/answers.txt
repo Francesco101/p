@@ -1,0 +1,31 @@
+sort1 uses: bubble sort
+
+How do you know?:
+    I know it because among the three is the program that shows the greater difference in the runtime
+    of the three "big" files random50000.txt, reversed50000.txt and sorted50000.txt .
+    Specifically sort1 was relatively slow sorting random and reversed arrays,
+    while it showed a much greater speed in checking that a file was already sorted.
+    In fact, to support my theory, bubble sort in a best case scenario has a complexity of n
+    while in a worst case scenario has a complexity of n^2.
+
+
+sort2 uses: merge sort
+
+How do you know?:
+    I know it because among the three others programs sort2 was by far the fastest to sort the
+    files containing 50000 lines that were not already sorted.
+    In addition sort2 showed comparable runtimes sorting each type of file
+    with the same amount of lines.
+    In fact, to support my theory, merge sort has a worst case scenario complexity or (n log n)
+    compared to the n^2 complexity of the other two algorithms.
+    And in the worst case scenario it maintains a complexity of (n log n).
+
+sort3 uses: selection sort
+
+How do you know?: 
+    I know it because among the other algorithms it is the program that showed the slowest runtime
+    when checking already sorted algorithms. And also because the algorithm didn't show considerable
+    runtime differences elaborating files of same lenght but differently arranged.
+    In support of my theory is the fact that the complexity of selecting sort remains the same
+    in best and worst scenarios.
+    And compared to sort2 (merge sort) it was much slower in elaborating each big file.

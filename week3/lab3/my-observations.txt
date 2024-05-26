@@ -1,0 +1,72 @@
+OBSERVATIONS for lab2
+
+
+
+REAL RUNTIMES for random5000.txt :
+
+    sort1 = 83 ms
+    sort2 = 101 ms
+    sort3 = 53 ms
+
+
+
+REAL RUNTIMES for random10000.txt :
+
+    sort1 = 318 ms
+    sort2 = 63 ms
+    sort3 = 160 ms
+
+
+
+REAL RUNTIMES for random50000.txt :
+
+    sort1 = 7578 ms
+    sort2 = 587 ms
+    sort3 = 3498 ms
+
+
+
+REAL RUNTIMES for reversed5000.txt :
+
+    sort1 = 90 ms
+    sort2 = 50 ms
+    sort3 = 44 ms
+
+
+
+REAL RUNTIMES for reversed10000.txt :
+
+    sort1 = 260 ms
+    sort2 = 45 ms
+    sort3 = 202 ms
+
+
+
+REAL RUNTIMES for reversed50000.txt :
+
+    sort1 = 5786 ms
+    sort2 = 519 ms
+    sort3 = 3226 ms
+
+
+REAL RUNTIMES for sorted5000.txt :
+
+    sort1 = 27 ms
+    sort2 = 24 ms
+    sort3 = 59 ms
+
+
+
+REAL RUNTIMES for sorted10000.txt :
+
+    sort1 = 198 ms
+    sort2 = 63 ms
+    sort3 = 207 ms
+
+
+
+REAL RUNTIMES for sorted50000.txt :
+
+    sort1 = 548 ms 
+    sort2 = 686 ms
+    sort3 = 3619 ms
